@@ -64,6 +64,7 @@ MOPSO treats CNN hyperparameter selection as a multi-objective optimisation prob
 
 ## Results
 
+![Confusion Matrix](confusion_matrix.png)
 | Metric | Value |
 |---|---|
 | Keyword prediction accuracy | **93.85%** |
